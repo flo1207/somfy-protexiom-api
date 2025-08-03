@@ -10,6 +10,7 @@
   - [Manual launch](#manual-launch)
 - [Access](#access)
 - [Notes](#notes)
+- [Available API Endpoints](#available-api-endpoints)
 - [Contact](#contact)
 
 ---
@@ -19,7 +20,7 @@
 This project is a lightweight REST API for remotely controlling and monitoring a Somfy alarm protexium system via its local web interface.
 
 It includes:
-    
+
 - **Backend:** A Flask-based HTTP API that wraps an interface to the Somfy HTML panel using Python, `requests`, and `BeautifulSoup`.
 
 With this tool, you can:
